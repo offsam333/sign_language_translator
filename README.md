@@ -1,2 +1,13 @@
 # sign_language_translator
-sign language translator for disabled people
+* purpose
+
+sign language translator for _language disabled people_
+
+<hr/>
+
++ index
+  - summary
+  - virtual image of program
+  - introduction
+  - main subject
+  - conclusion
