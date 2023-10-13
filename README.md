@@ -11,3 +11,6 @@ sign language translator for _language disabled people_
   - introduction
   - main subject
   - conclusion
+<hr/>
+Master branch had latest update.
+Plz check my Master Branch.
